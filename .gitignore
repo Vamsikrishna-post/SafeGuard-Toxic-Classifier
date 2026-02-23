@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+toxic_dataset.csv
+confusion_matrix.png
+model_assets/
+.env
